@@ -11,6 +11,12 @@
 *.sln.docstates
 *.env
 
+# CMake files (if you use CMake)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
